@@ -1,5 +1,8 @@
 ### Hi there 👋
+### My name is Yorben, and I am an Applied Computer Science student at HOGENT.
+I am very interested in subjects such as Cybersecurity, Ethical Hacking, Scripting and Automation, and Cloud infrastructure!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ycap&theme=dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 <!--
 **Ycap/Ycap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
